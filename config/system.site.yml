@@ -1,0 +1,14 @@
+uuid: 7b8438ae-73d4-4c1c-a752-af4f7e937ee0
+name: mweng-nashville-2018-training
+mail: sweng@umd.edu
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
